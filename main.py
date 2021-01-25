@@ -7,6 +7,7 @@ import datetime
 clock = Tk()
 clock.title("Digital Clock")
 clock.geometry("800x300")
+clock.resizable(False,False)
 
 bg = PhotoImage(file = "NASA.png")
 
