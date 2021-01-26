@@ -1,5 +1,4 @@
-from tkinter import *
-from tkinter.ttk import *
+from tkinter import Label,Tk, PhotoImage
 
 from time import strftime
 import datetime
